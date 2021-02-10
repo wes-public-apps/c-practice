@@ -1,3 +1,7 @@
+// Wesley Murray
+// 2/9/2021
+// This is a hello world program.
+
 //compiler directives to import libraries
 #include <iostream>
 
