@@ -11,4 +11,5 @@ using namespace std;
 //run function
 int main(){
     cout << "Hello World" << endl;
+    return 0;
 }
